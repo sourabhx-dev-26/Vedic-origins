@@ -10,7 +10,7 @@
 
 Vedic-origins is a frontend website repository. Purpose: <Short description of what the site does and its goals — e.g. "an educational site about Vedic origins, with articles, timelines and interactive visualizations">.
 
-Live demo: <If your site is hosted, paste the URL here. Example: https://sourabhx-dev-26.github.io/Vedic-origins>
+Live demo: <If your site is hosted, paste the URL here. Example: https://sourabhx-dev-26.github.io/Vedic-origins/
 
 Status: Testing / Demo / In development
 
