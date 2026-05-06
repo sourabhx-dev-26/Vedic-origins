@@ -40,7 +40,7 @@ This repository analysis shows the primary languages used:
 
 1. Clone the repository:
 
-   git clone https://github.com/sourabhx-dev-26/Vedic-origins.git
+   git clone https://sourabhx-dev-26.github.io/Vedic-origins/
    cd Vedic-origins
 
 2. Install dependencies (if any):
