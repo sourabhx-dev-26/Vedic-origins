@@ -89,13 +89,6 @@ Replace these examples with your repo's actual structure if different:
 
 ---
 
-## Screenshots / Demo
-
-Include screenshots to help visitors quickly understand the project. Add images to the repo (e.g., `assets/screenshots/`) and reference them here:
-
-```
-![Home page screenshot](assets/screenshots/home.png)
-```
 
 Replace the path and file name with your actual screenshot file.
 
@@ -137,32 +130,9 @@ If you tell me which license you want I can add the LICENSE file and update this
 
 ## Author / Contact
 
-Author: <Your name — e.g. "Sourabh Lodhi">  
-Email / Contact: <your-email@example.com or other contact method>  
+Author: <"Sourabh Lodhi">  
+Email / Contact: <ysourabh1038@gmail.com>  
 GitHub: https://github.com/sourabhx-dev-26
 
 ---
-
-## Deployment
-
-If you plan to host this site (GitHub Pages, Netlify, Vercel), add deployment instructions here. Example for GitHub Pages:
-
-1. Build the site: `npm run build` (if applicable)
-2. Push the compiled output to the `gh-pages` branch or configure GitHub Pages to serve from `main` / `docs/`.
-
----
-
-## Acknowledgements
-
-Credits, libraries, or resources used in this project.
-
----
-
-If you want, give me the following details and I will update the README in-place:
-- One-sentence description of the site (what it does)
-- Live demo URL (if any)
-- Author name and preferred contact
-- Which license to add (MIT/Apache-2.0/GPL-3.0/other)
-- Paths to screenshots (and the screenshot files if available)
-- Any specific install/build commands (if different from `npm install` / `npm run build`)
 
